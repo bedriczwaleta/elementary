@@ -1,0 +1,8 @@
+05 31-56, 59-8a, 8d-8f
+10 a0-c5, d0-f5,fb-fc
+14 03-06 0a-0b 31-34 38-39 49 4e-51 55-56 66 6d-70 72-73 83 8b-8e 90-91 a1 a5-a8 aa-ab bb c2-c5 c7-c8 d0 d5-d8 da-db ea ef-f2 f4-f5 
+15 05 28-2b 2d-2e 3e 46-49 4b-4c 50 55-a 5d 7c 7f-85 8f-96 a0-a6
+16 71-76
+1c 90-b5, b8
+proposals:
+semibold + extended (150 scale) variants
